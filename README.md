@@ -1,1 +1,1 @@
-# One_Way_Anova_Post_Hoc_Tests
+One Way Anova and Post Hoc Tests on R with normality and variance and homogeneity tests
